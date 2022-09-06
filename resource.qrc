@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="resource">
+    <file>img/employee.png</file>
+    <file>img/user.png</file>
+    <file>img/dashboard.png</file>
+    <file>img/check-list 2.png</file>
+    <file>img/dish.png</file>
+    <file>img/employee.jpg</file>
+    <file>img/employee.jpg</file>
+    <file>img/employee.jpg</file>
+    <file>img/accueil.png</file>
+    <file>img/baby-boy.png</file>
+    <file>img/flecheUpTrue.png</file>
+    <file>img/flecheUp.png</file>
+    <file>img/cadenas.png</file>
+    <file>img/Vector1.png</file>
+    <file>img/11111111.png</file>
+    <file>img/etoiles.png</file>
+    <file>img/Union.png</file>
+    <file>img/Vector1.png</file>
+    <file>img/download.jpeg</file>
+    <file>img/001-accueil.png</file>
+    <file>img/profit.png</file>
+    <file>img/revenu.png</file>
+    <file>img/002-bb-garon.png</file>
+    <file>img/003-employ.png</file>
+    <file>img/account 1.png</file>
+    <file>img/budget 1.png</file>
+    <file>img/creche-removebg 2.png</file>
+    <file>img/liste-de-controle.png</file>
+    <file>img/logo (1).png</file>
+    <file>img/plat.png</file>
+    <file>img/Polygon 2.png</file>
+    <file>img/tableau-de-bord.png</file>
+    <file>img/Vector.png</file>
+    <file>img/Frame 2.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+</RCC>
